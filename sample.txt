@@ -1,4 +1,6 @@
 test file
 sampletest
 new code working in progress"
-WIP`
+WIP
+
+filemew entry`
