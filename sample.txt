@@ -2,6 +2,6 @@ test file
 sampletest
 new code working in progress"
 WIP
- new entry data
+ue new entry data
 IF new netry
 filemew entry`
