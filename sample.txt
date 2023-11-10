@@ -3,4 +3,5 @@ sampletest
 new code working in progress"
 WIP
  new entry data
+IF new netry
 filemew entry`
