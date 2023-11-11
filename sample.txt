@@ -5,4 +5,6 @@ new wwwcode working in progress"
 WIP new exacrt
 ue new entry data
 IF new netry
-filemew entry`
+fiilemew entry`
+
+new entry of data
